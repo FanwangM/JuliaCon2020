@@ -10,9 +10,9 @@ https://live.juliacon.org/live. You can access the program calendar at https://l
 
 1. Building and analyzing graphs at scale with LightGraphs
 
-..* speakers: James Fairbanks, Mathieu Besançon, Simon Schoelly
-..* details at: https://pretalx.com/juliacon2020/talk/GQATHR/
-..* videos at: https://youtu.be/K3z0kUOBy2Y
-..* slides or materials at: https://github.com/matbesancon/lightgraphs_workshop
+* speakers: James Fairbanks, Mathieu Besançon, Simon Schoelly
+* details at: https://pretalx.com/juliacon2020/talk/GQATHR/
+* videos at: https://youtu.be/K3z0kUOBy2Y
+* slides or materials at: https://github.com/matbesancon/lightgraphs_workshop
 
 
